@@ -22,7 +22,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://223.220.143.139:8081/azbj/platform/announce/icon.png</string>
+                        <string>http://223.220.143.139:8081/azbj/platform/announce/web/icon.png</string>
                     </dict>
                     
                     <!-- full-size-image: the large 512×512 icon used by iTunes.  -->
@@ -32,7 +32,7 @@
                         <key>needs-shine</key>
                         <true/>
                         <key>url</key>
-                        <string>http://223.220.143.139:8081/azbj/platform/announce/itunes-icon.png</string>
+                        <string>http://223.220.143.139:8081/azbj/platform/announce/web/itunes-icon.png</string>
                     </dict>                    
                 </array>
                 <key>metadata</key>
